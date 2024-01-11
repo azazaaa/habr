@@ -8,7 +8,7 @@ import sys
 LOGIN = sys.argv[1]
 PASSWORD = sys.argv[2]
 TOKEN = sys.argv[3]
-CHAT_ID = sys.argv[2]
+CHAT_ID = sys.argv[4]
 name_file = "img.png"
 
 options = Options()
