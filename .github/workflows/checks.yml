@@ -1,8 +1,8 @@
 name: deadline
 
-on: #workflow_dispatch
-  schedule:
-    - cron: '0 7 * * *'
+on: workflow_dispatch
+#  schedule:
+#    - cron: '0 7 * * *'
 
 jobs:
   run_script:
