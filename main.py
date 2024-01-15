@@ -4,7 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from time import sleep
 import sys
-
+MAIL = "wolf20102014@mail.ru"
+PASSWORD_MAIL = "AAAf__456asd987123"
 LOGIN = sys.argv[1]
 PASSWORD = sys.argv[2]
 TOKEN = sys.argv[3]
